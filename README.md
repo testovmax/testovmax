@@ -10,7 +10,6 @@
 
 <div align="center">
 
-## 📊 Цифры
 
 <img height="195" src="https://streak-stats.demolab.com?user=testovmax&hide_border=true&background=0d1117&stroke=e25822&ring=ffa028&fire=ff4d00&currStreakLabel=ffa028&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&border_radius=10" />
 
@@ -22,7 +21,6 @@
 
 <div align="center">
 
-## 🗂 Разрез по языкам и времени
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
@@ -47,7 +45,6 @@
 
 <div align="center">
 
-## 📈 Активность
 
 <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=testovmax&bg_color=0d1117&color=ffa028&line=ff7b24&point=ffffff&area=true&area_color=e25822&hide_border=true&radius=10" />
 
