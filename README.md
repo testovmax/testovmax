@@ -47,16 +47,6 @@
 
 <div align="center">
 
-## 🏆 Трофеи
-
-<img src="https://github-profile-trophy.vercel.app/?username=testovmax&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" width="99%" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:e25822,50:ffa028,100:e25822&height=3" width="100%" />
-
-<div align="center">
-
 ## 📈 Активность
 
 <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=testovmax&bg_color=0d1117&color=ffa028&line=ff7b24&point=ffffff&area=true&area_color=e25822&hide_border=true&radius=10" />
