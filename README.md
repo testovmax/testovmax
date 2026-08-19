@@ -12,13 +12,70 @@
 
 ## 🔥 Репозитории
 
-<a href="https://github.com/testovmax/CryptoBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=testovmax&repo=CryptoBot&hide_border=true&bg_color=0d1117&title_color=ffa028&icon_color=ff7b24&text_color=8b949e&border_radius=10" height="120" /></a>
-<a href="https://github.com/testovmax/Crossword"><img src="https://github-readme-stats.vercel.app/api/pin/?username=testovmax&repo=Crossword&hide_border=true&bg_color=0d1117&title_color=ffa028&icon_color=ff7b24&text_color=8b949e&border_radius=10" height="120" /></a>
+<table>
+<tr><td>
 
-<a href="https://github.com/testovmax/5s-launcher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=testovmax&repo=5s-launcher&hide_border=true&bg_color=0d1117&title_color=ffa028&icon_color=ff7b24&text_color=8b949e&border_radius=10" height="120" /></a>
-<a href="https://github.com/testovmax/mcp-1c-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=testovmax&repo=mcp-1c-ai&hide_border=true&bg_color=0d1117&title_color=ffa028&icon_color=ff7b24&text_color=8b949e&border_radius=10" height="120" /></a>
+**[CryptoBot](https://github.com/testovmax/CryptoBot)**
 
-<a href="https://github.com/testovmax/file-organizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=testovmax&repo=file-organizer&hide_border=true&bg_color=0d1117&title_color=ffa028&icon_color=ff7b24&text_color=8b949e&border_radius=10" height="120" /></a>
+</td><td>
+
+<img src="https://img.shields.io/github/languages/top/testovmax/CryptoBot?style=flat-square&label=&color=ffa028&labelColor=0d1117" />
+<img src="https://img.shields.io/github/commit-activity/t/testovmax/CryptoBot?style=flat-square&label=commits&color=ff7b24&labelColor=0d1117" />
+<img src="https://img.shields.io/github/languages/code-size/testovmax/CryptoBot?style=flat-square&label=size&color=e25822&labelColor=0d1117" />
+<img src="https://img.shields.io/github/last-commit/testovmax/CryptoBot?style=flat-square&label=&color=8b949e&labelColor=0d1117" />
+
+</td></tr>
+<tr><td>
+
+**[Crossword](https://github.com/testovmax/Crossword)**
+
+</td><td>
+
+<img src="https://img.shields.io/github/languages/top/testovmax/Crossword?style=flat-square&label=&color=ffa028&labelColor=0d1117" />
+<img src="https://img.shields.io/github/commit-activity/t/testovmax/Crossword?style=flat-square&label=commits&color=ff7b24&labelColor=0d1117" />
+<img src="https://img.shields.io/github/languages/code-size/testovmax/Crossword?style=flat-square&label=size&color=e25822&labelColor=0d1117" />
+<img src="https://img.shields.io/github/last-commit/testovmax/Crossword?style=flat-square&label=&color=8b949e&labelColor=0d1117" />
+
+</td></tr>
+<tr><td>
+
+**[5s-launcher](https://github.com/testovmax/5s-launcher)**
+
+</td><td>
+
+<img src="https://img.shields.io/github/languages/top/testovmax/5s-launcher?style=flat-square&label=&color=ffa028&labelColor=0d1117" />
+<img src="https://img.shields.io/github/commit-activity/t/testovmax/5s-launcher?style=flat-square&label=commits&color=ff7b24&labelColor=0d1117" />
+<img src="https://img.shields.io/github/languages/code-size/testovmax/5s-launcher?style=flat-square&label=size&color=e25822&labelColor=0d1117" />
+<img src="https://img.shields.io/github/last-commit/testovmax/5s-launcher?style=flat-square&label=&color=8b949e&labelColor=0d1117" />
+
+</td></tr>
+<tr><td>
+
+**[mcp-1c-ai](https://github.com/testovmax/mcp-1c-ai)**
+
+</td><td>
+
+<img src="https://img.shields.io/github/languages/top/testovmax/mcp-1c-ai?style=flat-square&label=&color=ffa028&labelColor=0d1117" />
+<img src="https://img.shields.io/github/commit-activity/t/testovmax/mcp-1c-ai?style=flat-square&label=commits&color=ff7b24&labelColor=0d1117" />
+<img src="https://img.shields.io/github/languages/code-size/testovmax/mcp-1c-ai?style=flat-square&label=size&color=e25822&labelColor=0d1117" />
+<img src="https://img.shields.io/github/last-commit/testovmax/mcp-1c-ai?style=flat-square&label=&color=8b949e&labelColor=0d1117" />
+
+</td></tr>
+<tr><td>
+
+**[file-organizer](https://github.com/testovmax/file-organizer)**
+
+</td><td>
+
+<img src="https://img.shields.io/github/languages/top/testovmax/file-organizer?style=flat-square&label=&color=ffa028&labelColor=0d1117" />
+<img src="https://img.shields.io/github/commit-activity/t/testovmax/file-organizer?style=flat-square&label=commits&color=ff7b24&labelColor=0d1117" />
+<img src="https://img.shields.io/github/languages/code-size/testovmax/file-organizer?style=flat-square&label=size&color=e25822&labelColor=0d1117" />
+<img src="https://img.shields.io/github/last-commit/testovmax/file-organizer?style=flat-square&label=&color=8b949e&labelColor=0d1117" />
+
+</td></tr>
+</table>
+
+<a href="https://github.com/testovmax?tab=repositories"><img src="https://img.shields.io/badge/%D0%B2%D1%81%D0%B5_%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8-0d1117?style=for-the-badge&logo=github&logoColor=ffa028" /></a>
 
 </div>
 
@@ -28,11 +85,9 @@
 
 ## 📊 Цифры
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=testovmax&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=0d1117&title_color=ffa028&icon_color=ff7b24&text_color=c9d1d9&border_radius=10" />
-<img height="170" src="https://streak-stats.demolab.com?user=testovmax&hide_border=true&background=0d1117&stroke=e25822&ring=ffa028&fire=ff4d00&currStreakLabel=ffa028&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&border_radius=10" />
+<img height="195" src="https://streak-stats.demolab.com?user=testovmax&hide_border=true&background=0d1117&stroke=e25822&ring=ffa028&fire=ff4d00&currStreakLabel=ffa028&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&border_radius=10" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=testovmax&layout=donut&langs_count=8&hide_border=true&bg_color=0d1117&title_color=ffa028&text_color=c9d1d9&border_radius=10" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=testovmax&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=ffa028&text_color=c9d1d9&border_radius=10" />
+<img height="195" src="https://gh-readme-profile.vercel.app/api?username=testovmax&hide_border=true&bg_color=0d1117&title_color=ffa028&icon_color=ff7b24&text_color=c9d1d9&username_color=ffffff&border_radius=10&show=reviews,issues_closed" />
 
 </div>
 
