@@ -17,7 +17,12 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=testovmax&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=ffa028&text_color=c9d1d9&icon_color=ff7b24" height="165" alt="Top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=testovmax&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffa028&icon_color=ff7b24&text_color=c9d1d9" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=testovmax&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=ffa028&text_color=c9d1d9&icon_color=ff7b24" alt="Top languages" />
+
+<br/><br/>
+
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=testovmax&bg_color=0d1117&color=ffa028&line=ff7b24&point=ffffff&area=true&area_color=e25822&hide_border=true&radius=10" alt="Activity graph" />
 
 <br/><br/>
 
